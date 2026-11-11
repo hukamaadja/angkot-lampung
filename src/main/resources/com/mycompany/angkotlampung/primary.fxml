@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Button?>
@@ -20,7 +20,7 @@
     <children>
         <TabPane prefHeight="570.0" prefWidth="890.0" tabClosingPolicy="UNAVAILABLE">
             <tabs>
-                <!-- TAB 1: DATA RUTE -->
+                 TAB 1: DATA RUTE 
                 <Tab text="Data Rute">
                     <content>
                         <VBox spacing="10.0">
@@ -69,7 +69,7 @@
                     </content>
                 </Tab>
 
-                <!-- TAB 2: DATA ANGKOT -->
+                 TAB 2: DATA ANGKOT 
                 <Tab text="Data Angkot">
                     <content>
                         <VBox spacing="10.0">
@@ -105,7 +105,7 @@
                     </content>
                 </Tab>
 
-                <!-- TAB 3: HITUNG TARIF -->
+                 TAB 3: HITUNG TARIF 
                 <Tab text="Hitung Tarif">
                     <content>
                         <VBox alignment="TOP_LEFT" spacing="15.0">
@@ -134,4 +134,4 @@
             </tabs>
         </TabPane>
     </children>
-</VBox>
+</VBox>-->
